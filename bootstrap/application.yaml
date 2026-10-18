@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/TU_USUARIO/hyper-gitops-lab.git
+    repoURL: https://github.com/cessar25/hyper-gitops-lab.git
     targetRevision: main
     path: k8s
   destination:
