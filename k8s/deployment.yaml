@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: hyper-web
 spec:
-  replicas: 4
+  replicas: 2
   selector:
     matchLabels:
       app: hyper-web
